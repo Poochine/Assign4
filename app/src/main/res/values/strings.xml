@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="large_text">Large text</string>
+
+    <string-array name="faculty">
+        <item>Natalie Rose</item>
+        <item>Otis Osbourne</item>
+        <item>Neil Williams</item>
+        <item>Fitzroy Gordon</item>
+        <item>Cecil White</item>
+        <item>Rochelle Mcbean</item>
+        <item>Stephan Gentles</item>
+        <item>Nathan Young</item>
+        <item>Sydia Brown</item>
+        <item>Karen Wilson</item>
+    </string-array>
+
+    <string-array name="timetable">
+        <item>ITT423| IT Capstone Project II | Saturday, 6pm to 8 pm  </item>
+        <item>ITT420 | Mobile App Development | Thursday, 6pm-8pm</item>
+        <item>ITT318 | Cloud Computing | Sunday, 3pm - 5pm</item>
+
+    </string-array>
+
+</resources>
